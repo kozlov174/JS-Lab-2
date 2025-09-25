@@ -1,0 +1,17 @@
+body {
+    padding-top: 70px;
+}
+.sidebar {
+    height: 100vh;
+    position: fixed;
+    top: 70px;
+    left: 0;
+    width: 220px;
+    padding: 1rem;
+    background-color: #f8f9fa;
+    overflow-y: auto;
+}
+.content {
+    margin-left: 240px;
+    padding: 2rem;
+}

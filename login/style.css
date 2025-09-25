@@ -1,0 +1,23 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background-color: #f2f2f2;
+}
+
+.form-container {
+  display: grid;
+  gap: 10px;
+  padding: 40px;
+  border-radius: 8px;
+  background: #fff;
+  width: 310px;
+}
+
+.form-container label {
+  font-size: 14px;
+}
